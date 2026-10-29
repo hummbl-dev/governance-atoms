@@ -16,6 +16,13 @@ Public from day one under hummbl-dev.
 
 **No GitHub Actions workflows** are included by design to conserve Actions minutes on the hummbl-dev plan. Run tests locally.
 
+## Federation
+
+Part of the **Governance Atoms** federation. See the [federations index](https://github.com/hummbl-dev/federations) for the full list.
+
+Related repositories:
+- [tuple-lite](https://github.com/hummbl-dev/tuple-lite)
+
 ## License
 
 Apache-2.0
